@@ -1,0 +1,6 @@
+@VargasM_APIs_HostAddress = http://localhost:5125
+
+GET {{VargasM_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
